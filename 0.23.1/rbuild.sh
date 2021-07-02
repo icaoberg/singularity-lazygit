@@ -1,6 +1,6 @@
 #!/bin/bash
 
-IMAGE=singularity-lazygit-0.22.9.sif
+IMAGE=singularity-lazygit-0.23.1.sif
 DEFINITION=Singularity
 
 if [ -f $IMAGE ]; then
