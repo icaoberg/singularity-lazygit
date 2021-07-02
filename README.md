@@ -5,6 +5,7 @@
 ![License](https://img.shields.io/github/license/icaoberg/singularity-lazygit)
 
 # singularity-lazygit
+![Screenshot](images/screenshot.png)
 Singularity recipe for [lazygit](https://github.com/jesseduffield/lazygit).
 
 ## Installing the container on Bridges 2
