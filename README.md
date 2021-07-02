@@ -1,8 +1,8 @@
-![Status](https://github.com/pscedu/singularity-lazygit/actions/workflows/main.yml/badge.svg)
-![Issue](https://img.shields.io/github/issues/pscedu/singularity-lazygit)
-![forks](https://img.shields.io/github/forks/pscedu/singularity-lazygit)
-![Stars](https://img.shields.io/github/stars/pscedu/singularity-lazygit)
-![License](https://img.shields.io/github/license/pscedu/singularity-lazygit)
+![Status](https://github.com/icaoberg/singularity-lazygit/actions/workflows/main.yml/badge.svg)
+![Issue](https://img.shields.io/github/issues/icaoberg/singularity-lazygit)
+![forks](https://img.shields.io/github/forks/icaoberg/singularity-lazygit)
+![Stars](https://img.shields.io/github/stars/icaoberg/singularity-lazygit)
+![License](https://img.shields.io/github/license/icaoberg/singularity-lazygit)
 
 # singularity-lazygit
 Singularity recipe for [lazygit](https://github.com/jesseduffield/lazygit).
